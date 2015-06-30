@@ -14,7 +14,7 @@
 - [regex](https://regex101.com) - Online regex tester and debugger: JavaScript, Python, PHP, and PCRE
 - [Rubular](http://rubular.com) - a Ruby regular expression editor
 - [regexpal](http://regexpal.com) - a JavaScript regular expression tester
-- [Dan's Tools - RegEx Testing](www.regextester.com) - Regular Expression Tester with highlighting for Javascript and PCRE
+- [Dan's Tools - RegEx Testing](www.regextester.com) - Regular Expression Tester with highlighting for JavaScript and PCRE
 - [RegExLib](http://regexlib.com/RETester.aspx) - Tester from RegExLib
 - [RegEx Cafe](http://kkosuge.github.io/regex-cafe/) - JavaScript Regular Expression Tester
 
