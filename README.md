@@ -64,5 +64,6 @@
 ## Books
 - [Mastering Regular Expression](http://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124)
 - [The Bastards Book of Regular Expressions](https://leanpub.com/bastards-regexes)
+- [Regular Expressions Cookbook](http://shop.oreilly.com/product/0636920023630.do)
 
 You know that, Pull Request is always welcome :smile: 
