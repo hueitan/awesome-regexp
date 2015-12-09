@@ -1,3 +1,5 @@
+_Move to => awesome-regex https://github.com/aloisdg/awesome-regex_
+
 # Awesome RegExp
 > Collection of anything about Regular Expression (RegExp) 
 
